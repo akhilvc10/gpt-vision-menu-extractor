@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Family Combo",
+        "type": "non_veg",
+        "category": "Combo",
+        "desc": "Choice of 10 Porotta, Wheat Porotta or Chapathi with full Chilly Chicken, Plain Gravy and 1 liter Mineral Water",
+        "price": "530"
+    },
+    {
+        "name": "Crab Roast",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Delicious roasted crab",
+        "price": "250"
+    },
+    {
+        "name": "Kallummakkai Fry",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Fried Kallummakkai (mussels)",
+        "price": "270"
+    },
+    {
+        "name": "Kallummakkai Roast",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Roasted Kallummakkai (mussels)",
+        "price": "270"
+    },
+    {
+        "name": "Chemmeen Varattiyath",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Traditional prawn preparation",
+        "price": "250"
+    },
+    {
+        "name": "Chemmeen Fry",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Fried prawns",
+        "price": "240"
+    },
+    {
+        "name": "Chemmeen Masala",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Prawns cooked in a spicy masala",
+        "price": "250"
+    },
+    {
+        "name": "Squid Fry (Koonthal)",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Fried squid rings",
+        "price": "230"
+    },
+    {
+        "name": "Squid Roast",
+        "type": "non_veg",
+        "category": "Sea Food",
+        "desc": "Roasted squid",
+        "price": "230"
+    },
+    {
+        "name": "Kaada Fry",
+        "type": "non_veg",
+        "category": "Kaada",
+        "desc": "Fried quail",
+        "price": "100"
+    },
+    {
+        "name": "Kaada Pepper Roast",
+        "type": "non_veg",
+        "category": "Kaada",
+        "desc": "Quail roasted with pepper",
+        "price": "130"
+    },
+    {
+        "name": "Kothu Porotta",
+        "type": "non_veg",
+        "category": "Hot Mixing",
+        "desc": "Minced porotta mixed with egg, chicken, beef, prawns, squid or mussels",
+        "price": "230"
+    },
+    {
+        "name": "Kakkarotty",
+        "type": "non_veg",
+        "category": "Hot Mixing",
+        "desc": "Vegetable mix with egg, chicken, beef, prawns, squid or mussels",
+        "price": "200"
+    },
+    {
+        "name": "Puttu",
+        "type": "non_veg",
+        "category": "Hot Mixing",
+        "desc": "Steamed rice cake mix with egg, chicken, beef, prawns, squid or mussels",
+        "price": "230"
+    },
+    {
+        "name": "Kappa",
+        "type": "non_veg",
+        "category": "Hot Mixing",
+        "desc": "Mashed tapioca mix with egg, chicken, beef, prawns, squid or mussels",
+        "price": "220"
+    }
+]
+
