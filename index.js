@@ -8,7 +8,7 @@ const openai = new OpenAI({
 });
 
 async function main() {
-	const imagePath = path.join(__dirname, "./image/menu1.jpg");
+	const imagePath = path.join(__dirname, "./image/image4.PNG");
 
 	// Read the image file and convert it to base64
 	const imageBase64 = fs.readFileSync(imagePath, { encoding: "base64" });
@@ -26,9 +26,9 @@ async function main() {
 							"'name': Capitalized name of the food/menu item." +
 							"'type': Classification as 'veg', 'non_veg', or 'only_egg'." +
 							"'category': Main category (not sub-category) of each item in capitalized letters." +
-							"'desc': Generate a simple and concise description for each menu item." +
-							"'price': Consider the full price as default for items with multiple prices. For items with only one price listed, use that as the default. Make sure its always in string. Make sure it has only numbers. If you see characters in the image then use 0 there" +
-							"Very important: Make sure you analyse the whole data from the image. Dont miss out the data. Take your time and give me full JSON. Dont ommit items"
+							"'desc': Generate a good description for each menu item." +
+							"'price': If you see multiple prices then use the first one as default. For items with only one price listed, use that as the default. There will be prices with floating value. Make sure its always in string. Make sure it has only numbers. If you see characters in the image then use 0 there" +
+							"Very important: Make sure you analyse the whole data from the image. Dont miss out the data. Take your time and give me full JSON. Dont ommit items. Make sure no comments are added in the JSON"
 					},
 
 					{
